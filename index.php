@@ -7,5 +7,8 @@
 </head>
 <body>
     <p>My name is Abhijit</p>
+    <?php
+    $username= "ABHIJIT";
+    echo $username ?>
 </body>
 </html>
